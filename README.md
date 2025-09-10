@@ -11,6 +11,16 @@ A simple command-line **Weather Application** built with Python that fetches rea
 - Shows **cloud coverage (%)**
 - Provides **weather condition text** (e.g., Sunny, Rainy, Cloudy)
 
+## ⚡ On console
+
+Enter City: London
+Temperature:  18 °C
+Feels Like:  17 °C
+Humidity:  63 %
+Cloud:  20 %
+Condition:  Partly cloudy
+
+
 ## 🛠️ Requirements
 Make sure you have the following installed:
 
@@ -20,13 +30,5 @@ Make sure you have the following installed:
 Install requests using:
 ```bash
 pip install requests
----
-## ⚡ On console
 
-Enter City: London
-Temperature:  18 °C
-Feels Like:  17 °C
-Humidity:  63 %
-Cloud:  20 %
-Condition:  Partly cloudy
 
