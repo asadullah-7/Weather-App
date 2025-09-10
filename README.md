@@ -13,12 +13,12 @@ A simple command-line **Weather Application** built with Python that fetches rea
 
 ## ⚡ On console
 
-Enter City: London
-Temperature:  18 °C
-Feels Like:  17 °C
-Humidity:  63 %
-Cloud:  20 %
-Condition:  Partly cloudy
+- Enter City: London
+- Temperature:  18 °C
+- Feels Like:  17 °C
+- Humidity:  63 %
+- Cloud:  20 %
+- Condition:  Partly cloudy
 
 
 ## 🛠️ Requirements
