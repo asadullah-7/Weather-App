@@ -5,6 +5,7 @@ A simple command-line **Weather Application** built with Python that fetches rea
 ---
 
 ## 🚀 Features
+- GUI using tkinter
 - Get **current temperature** in Celsius 🌡️
 - Shows **feels like temperature**
 - Displays **humidity (%)**
